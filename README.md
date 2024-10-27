@@ -5,10 +5,40 @@ Online Quiz system - JDBC, JSP
 Java Project based on JDBC, JSP, Java Servlet and Server Deployment
 
 # Members Detail -
-1) Krishna Garg - Leader
-2) Shantanu Sharma - Frontend - Java
-3) Parth Gaur - Backend - JDBC, SQL
-4) Ankit Patel - Frontend - HTML, CSS
+ 
+- **Krishna Garg** - **Project Leader & System Architect**  
+  - *Role*: Directed the project’s structure, planning, and task allocation.
+  - *Responsibilities*:
+    - Defined the project’s architecture, leveraging Java Servlets, JSP, and JDBC.
+    - Coordinated integration between frontend (HTML, CSS, Bootstrap) and backend (JDBC, SQL).
+    - Oversaw database schema planning and SQL query optimization.
+    - Managed deployment using Glassfish/Tomcat server, ensuring setup and testing.
+    - Guided team on best practices in Java EE, NetBeans, and MySQL.
+
+- **Shantanu Sharma** - **Frontend Developer (Java, JSP, Bootstrap)**  
+  - *Role*: Developed dynamic user interface components using JSP and Bootstrap for responsive design.
+  - *Responsibilities*:
+    - Implemented the main login and quiz interfaces for both Admin and Student.
+    - Used JSP for rendering web content and Bootstrap for styling and responsiveness.
+    - Collaborated closely with backend to ensure smooth data handling between client and server.
+    - Integrated CSS for custom styling to enhance the user experience.
+
+- **Parth Gaur** - **Backend Developer (JDBC, SQL)**  
+  - *Role*: Developed backend logic and database connections for seamless data operations.
+  - *Responsibilities*:
+    - Designed and implemented the database schema using MySQL.
+    - Developed SQL queries and JDBC code for data retrieval, insertion, and management.
+    - Created Admin functionalities like adding, updating, and deleting quiz questions.
+    - Ensured security and efficiency of database operations through optimized queries.
+
+- **Ankit Patel** - **Frontend Developer (HTML, CSS, Bootstrap)**  
+  - *Role*: Focused on building and styling static pages and enhancing the frontend user experience.
+  - *Responsibilities*:
+    - Created static pages for registration, login, and dashboard using HTML and CSS.
+    - Used Bootstrap for a responsive layout and improved mobile accessibility.
+    - Worked with Shantanu to connect JSP components with static pages.
+    - Ensured consistency across all pages and assisted in styling dynamic content.
+
 
 # Project Aim
 Develop web app using Java for Quiz platform at University level events with the help of Java servlet, JSP & JDBC
