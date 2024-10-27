@@ -1,8 +1,14 @@
-# Qbits
+# Qbits - Java-Based Online Quiz Platform
 GUVI PROJECT
 #Online-Quiz-System-in-Java
 Online Quiz system - JDBC, JSP
 Java Project based on JDBC, JSP, Java Servlet and Server Deployment
+
+# Members Detail -
+1) Krishna Garg - Leader
+2) Shantanu Sharma - Frontend - Java
+3) Parth Gaur - Backend - JDBC, SQL
+4) Ankit Patel - Frontend - HTML, CSS
 
 # Project Aim
 Develop web app using Java for Quiz platform at University level events with the help of Java servlet, JSP & JDBC
