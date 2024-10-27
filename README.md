@@ -40,8 +40,12 @@ Java Project based on JDBC, JSP, Java Servlet and Server Deployment
     - Ensured consistency across all pages and assisted in styling dynamic content.
 
 
-# Project Aim
-Develop web app using Java for Quiz platform at University level events with the help of Java servlet, JSP & JDBC
+# Vision
+The vision of the Qbits Java-based online quiz platform project is to create a user-friendly and efficient web application that facilitates quiz management and participation at university-level events. By leveraging Java Servlet, JSP, and JDBC, the platform aims to provide a seamless experience for both administrators and students.
+
+For administrators, the platform will offer tools to create, manage, and customize quizzes, enhancing the organization and delivery of quizzes during events. For students, it will provide a straightforward interface for registration, quiz participation, and result viewing.
+
+The ultimate goal is to support learning, engagement, and fair assessment through a reliable digital platform that can be scaled and adapted for various academic needs and events.
 
 # Steps of Development
 1. Project Setup
