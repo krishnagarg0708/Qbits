@@ -71,3 +71,11 @@ For student give options to register & login, Quiz submit etc.
 3. Java EE version 8
 4. Oracle or MySQL DB
 5. Glassfish Server / Tomcat Server
+
+# Visual Representation:
+
+Include a simple graphic or flowchart showing the process flow:
+
+Admin: Login → Create Quiz → Add Questions → View Results.
+
+Student: Register/Login → Select Quiz → Attempt Quiz → View Scores
