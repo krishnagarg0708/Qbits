@@ -79,3 +79,43 @@ Include a simple graphic or flowchart showing the process flow:
 Admin: Login → Create Quiz → Add Questions → View Results.
 
 Student: Register/Login → Select Quiz → Attempt Quiz → View Scores
+
+# Java-Based Quiz Platform
+
+## Project Overview
+Developing a Java-based quiz platform that facilitates university-level events with features like user management, quizzes, and results tracking.
+
+---
+
+## Achievements So Far
+
+### *Review 1 (Score: 11)*
+- ✅ Set up the project environment with *JDK* & *IDK*.
+- ✅ Defined the project structure.
+- ✅ Designed the database schema and created *MySQL tables*.
+- ✅ Implemented *JDBC* for database connectivity.
+- ✅ Developed *DAO classes* for database operations.
+
+### *Review 2 (Score: 8)*
+- ✅ Designed and styled *HTML templates* for user management using *CSS* and *Bootstrap*.
+- ✅ Added *form validation* and interactivity using *JavaScript*.
+
+---
+
+## Upcoming Tasks
+
+### *Review 3 (Score: 20)*
+- [ ] Create and configure *Servlets* with doGet and doPost methods.
+- [ ] Implement user registration and profile features using *Servlets*.
+- [ ] Integrate *JSP* with Servlets for dynamic content display.
+- [ ] Design *JSP pages* for user data and utilize *JSTL* and *EL*.
+
+### *Review 4 (Score: 11)*
+- [ ] Develop *unit tests* for services and DAO classes.
+- [ ] Conduct a comprehensive project review.
+- [ ] Prepare and finalize project documentation.
+
+---
+
+## Contributors
+- *Krishna Garg, Shantanu Sharma, Parth Gaur, Ankit Patel*
